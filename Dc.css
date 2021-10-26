@@ -1,0 +1,41 @@
+body{
+    font-family: 'Festive', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Stick No Bills', sans-serif;
+background-color:silver;
+}
+h1{
+    text-align: center;
+}
+h2{
+    margin-left: 350px;
+}
+.m1{
+    margin-left: 370px;
+    background-color: navy;
+    width: 300px;
+    border-radius:12px;
+    padding:2px;
+}
+.t1{
+    color: white;
+}
+span{
+    margin: 10px;
+}
+.m1:hover{
+    padding-right: 300px;
+    transition: 2s;
+}
+span:hover{
+    font-size: 26px;
+    transition: 1s;
+}
+li{
+    list-style-type: none;
+}
+.boxl{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
